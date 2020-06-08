@@ -1,0 +1,17 @@
+D:\aPRL-mAY\bikerace_project\bikerace_projectTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\aPRL-mAY\bikerace_project\bikerace_projectTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\aPRL-mAY\bikerace_project\bikerace_projectTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\aPRL-mAY\bikerace_project\bikerace_projectTests\bin\Debug\bikerace_projectTests.dll
+D:\aPRL-mAY\bikerace_project\bikerace_projectTests\bin\Debug\bikerace_projectTests.pdb
+D:\aPRL-mAY\bikerace_project\bikerace_projectTests\bin\Debug\bikerace_project.exe
+D:\aPRL-mAY\bikerace_project\bikerace_projectTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\aPRL-mAY\bikerace_project\bikerace_projectTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\aPRL-mAY\bikerace_project\bikerace_projectTests\bin\Debug\bikerace_project.pdb
+D:\aPRL-mAY\bikerace_project\bikerace_projectTests\bin\Debug\bikerace_project.exe.config
+D:\aPRL-mAY\bikerace_project\bikerace_projectTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\aPRL-mAY\bikerace_project\bikerace_projectTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\aPRL-mAY\bikerace_project\bikerace_projectTests\obj\Debug\bikerace_projectTests.csprojAssemblyReference.cache
+D:\aPRL-mAY\bikerace_project\bikerace_projectTests\obj\Debug\bikerace_projectTests.csproj.CoreCompileInputs.cache
+D:\aPRL-mAY\bikerace_project\bikerace_projectTests\obj\Debug\bikerace_projectTests.csproj.CopyComplete
+D:\aPRL-mAY\bikerace_project\bikerace_projectTests\obj\Debug\bikerace_projectTests.dll
+D:\aPRL-mAY\bikerace_project\bikerace_projectTests\obj\Debug\bikerace_projectTests.pdb
